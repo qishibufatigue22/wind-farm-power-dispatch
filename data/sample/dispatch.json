@@ -1,0 +1,11 @@
+{
+  "description": "Synthetic demonstration; not competition measurements",
+  "wind_mps": [
+    12,
+    14,
+    16,
+    18,
+    20
+  ],
+  "total_mw": 20
+}
